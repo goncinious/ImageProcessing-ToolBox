@@ -1,2 +1,5 @@
 # ImageProcessing-ToolBox
-GUI for visualising image processing techniques
+GUI for visualising different image processing techniques.
+
+
+![](demo1.gif)
