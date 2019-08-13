@@ -6,3 +6,9 @@
 ## Examples:
 #### Apply histogram equalisation and edge detection in a ROI of the selected image
 ![](demo1.gif)
+
+#### Example of adaptive filtering using local variance and global mean
+![](demo2.gif)
+
+#### Arithmetic operations between two images
+![](demo3.gif)
