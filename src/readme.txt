@@ -58,7 +58,3 @@ Some functions were developed that are used in the main Demo.m script. All auxil
 EXAMPLE IMAGES
 - Example images are provided in the images folder.
 
-
-Goncalo Figueira
-12/03/19
-ec18438@qmul.ac.uk
