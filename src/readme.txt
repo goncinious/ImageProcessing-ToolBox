@@ -55,6 +55,3 @@ Some functions were developed that are used in the main Demo.m script. All auxil
 - IP_StatFiltering.m: Apply high-order filtering operation to the image.
 - IP_AdaptThr.m: Get mean and variance images to apply adaptive thresholding.
 
-EXAMPLE IMAGES
-- Example images are provided in the images folder.
-
